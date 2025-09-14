@@ -87,23 +87,6 @@ heart-disease-prediction/
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the analysis:
-```bash
-jupyter notebook notebooks/model_development.ipynb
-```
 
 ## 📈 Model Performance Metrics
 
